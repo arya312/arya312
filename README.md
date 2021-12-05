@@ -53,25 +53,25 @@
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   </a>
   <br>
-  <a href="https://nodejs.org/en/">
+<!--   <a href="https://nodejs.org/en/">
     <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-  </a>
+  </a> -->
   <a href="https://git-scm.com/">
     <img src="https://img.shields.io/badge/git-F05032?&style=for-the-badge&logo=git&logoColor=white">
   </a>
-  <br>
+<!--  <br>
   <a href="https://reactjs.org/">
     <img src="https://img.shields.io/badge/react-61DAFB?&style=for-the-badge&logo=react&logoColor=121212">
   </a>
   <a href="https://expressjs.com/">
     <img src="https://img.shields.io/badge/express.js-000000?&style=for-the-badge&logo=Express&logoColor=white">
-  </a>
+  </a> -->
 </p>
 
 <h1 align="center"> 🤝 Socials: </h1>
   <p align="center">
-    <a href="https://twitter.com/AryaPandey311">
-      <img src="https://img.shields.io/badge/twitter-1DA1F2?&style=for-the-badge&logo=twitter&logoColor=white">
+    <a href="https://aryapandey194.medium.com/">
+      <img src="https://img.shields.io/badge/-Medium-black">
     </a>
     <a href="https://www.linkedin.com/in/arya-pandey-5340651b8/">
       <img src="https://img.shields.io/badge/linkedin-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white">
