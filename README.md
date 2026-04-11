@@ -14,7 +14,7 @@
 <a href="https://aryapandey194.medium.com/">
   <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
 </a>
-<a href="https://twitter.com/AryaPandey311">
+<a href="https://twitter.com/aryapandeydtu">
   <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
 </a>
 <img src="https://komarev.com/ghpvc/?username=arya312&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile views"/>
