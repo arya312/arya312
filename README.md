@@ -165,7 +165,7 @@ I write about building with LLMs, the Model Context Protocol, AI agents, and wha
 
 If you're working on something interesting in the LLM/agent/MCP space, or hiring senior engineers for London-based teams, I'd love to chat.
 
-**📬** [LinkedIn](https://www.linkedin.com/in/aryapandey1/) · [Medium](https://aryapandey194.medium.com/) · [X / Twitter](https://twitter.com/AryaPandey311)
+**📬** [LinkedIn](https://www.linkedin.com/in/aryapandey1/) · [Medium](https://aryapandey194.medium.com/) · [X / Twitter](https://twitter.com/aryapandeydtu)
 
 ---
 
