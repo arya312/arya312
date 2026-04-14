@@ -103,14 +103,14 @@ I'm a software engineer at Salesforce with a background in CV/ML from DTU, now d
 
 > Building production-grade AI tools, not toy demos.
 
-### 🔍 RAG Document Intelligence System *(in progress)*
+### 🔍 RAG Document Intelligence System
 A production RAG pipeline — ingest any PDF/doc collection, ask questions, get grounded answers with source citations. Includes hallucination detection, retrieval quality metrics, and a live monitoring dashboard. Deployed live on Railway.
 
 `Python` · `LangChain` · `ChromaDB` · `FastAPI` · `React` · `Railway`
 
 ---
 
-### 🤖 AI Code Review Agent *(coming soon)*
+### 🤖 AI Code Review Agent
 A GitHub Action + CLI that auto-reviews PRs using the Claude API — flags security issues, code smells, and suggests refactors with explanations. Published to npm so engineers can install it in 30 seconds.
 
 `TypeScript` · `Claude API` · `GitHub Actions` · `AST parsing` · `npm`
@@ -124,7 +124,7 @@ An MCP server that connects Claude directly to Salesforce — query records, run
 
 ---
 
-### 📊 Real-time LLM Data Pipeline *(coming soon)*
+### 📊 Real-time LLM Data Pipeline *(in progress)*
 Ingest a live data stream → clean → LLM enrichment (sentiment + entity extraction + summarization) → PostgreSQL → REST API. End-to-end system showing event-driven architecture, pipeline design, and production LLM integration.
 
 `Python` · `Kafka` · `PostgreSQL` · `FastAPI` · `Docker Compose` · `Claude API`
