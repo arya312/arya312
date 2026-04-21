@@ -124,14 +124,14 @@ An MCP server that connects Claude directly to Salesforce — query records, run
 
 ---
 
-### 📊 Real-time LLM Data Pipeline *(in progress)*
+### 📊 Real-time LLM Data Pipeline
 Ingest a live data stream → clean → LLM enrichment (sentiment + entity extraction + summarization) → PostgreSQL → REST API. End-to-end system showing event-driven architecture, pipeline design, and production LLM integration.
 
 `Python` · `Kafka` · `PostgreSQL` · `FastAPI` · `Docker Compose` · `Claude API`
 
 ---
 
-### 🧪 LLM Evaluation Framework *(coming soon)*
+### 🧪 LLM Evaluation Framework
 A pytest-based framework for evaluating LLM outputs — factuality checks, latency benchmarks, hallucination detection, and regression testing. Integrates with DeepEval and RAGAS. Runs in CI via GitHub Actions.
 
 `Python` · `DeepEval` · `RAGAS` · `pytest` · `GitHub Actions`
