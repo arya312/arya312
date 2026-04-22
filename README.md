@@ -117,7 +117,7 @@ A GitHub Action + CLI that auto-reviews PRs using the Claude API — flags secur
 
 ---
 
-### ⚡ Salesforce MCP Server *(coming soon)*
+### ⚡ Salesforce MCP Server
 An MCP server that connects Claude directly to Salesforce — query records, run SOQL, update objects, and trigger flows — all from within your AI assistant. Built with the official MCP SDK and published to npm. *The first Salesforce MCP server on npm.*
 
 `TypeScript` · `MCP SDK` · `Salesforce API` · `npm`
