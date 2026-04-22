@@ -28,7 +28,7 @@
 ```python
 arya = {
     "role"        : "Software Development Engineer @ Salesforce",
-    "location"    : "New Delhi, India 🇮🇳  →  London 🇬🇧  (open to relocate)",
+    "location"    : "Bengaluru, Karnataka, India",
     "focus"       : ["LLM Engineering", "AI Agents", "MCP Servers", "Backend Systems"],
     "building"    : "Production-grade AI tools developers actually use every day",
     "certifications": "13× Anthropic Academy (Claude, MCP, Agents, Subagents, API)",
